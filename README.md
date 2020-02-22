@@ -1,4 +1,4 @@
-Typecho Blogging Platform
+Typecho Blogging Platform （历史版本typecho备份）
 =========================
 
 Typecho is a PHP Blogging Platform. Simple and Powerful.
